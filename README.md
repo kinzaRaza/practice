@@ -16,4 +16,4 @@ lahore.csv
 rawalpindi.csv
 
 ### Credits
-credits kinza
+credits goes to kinza
